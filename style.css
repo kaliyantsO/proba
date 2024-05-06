@@ -1,0 +1,48 @@
+body{
+	background:  url("fon.jpg");
+}
+
+p {
+ font-family: Arial, sans-serif;
+ font-size: 18px;
+
+}
+
+
+h1 {
+  color: green;
+  background-color: red;
+  font-size: 22pt;
+  font-family: areal;
+  font-weight: 900;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-size: 16pt;
+  font-family: areal;
+  font-weight: 900;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-size: 16pt;
+  font-family: areal;
+  font-weight: 100;
+  text-align: center;
+}
+h4 {
+  color: green;
+  font-size: 24 pt;
+  font-family: Arial;
+  font-weight: 900;
+  text-align: left;
+}
+
+h5 {
+  color: black;
+  font-size: 15pt;
+  font-family: areal;
+  font-weight: 900;
+  text-align: center;
+}
